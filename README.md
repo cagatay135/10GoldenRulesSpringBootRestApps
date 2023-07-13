@@ -1,4 +1,4 @@
-# 10 Golden Rule for Spring Boot to Build RESTful Applications***
+# 10 Golden Rule for Spring Boot to Build RESTful Applications
 
 # Reference
 This GitHub repository has been created to work on topics covered in this [10 Golden Rules for Spring Boot to Build RESTful Applications](https://www.youtube.com/watch?v=2PtrtAmcnSE).
